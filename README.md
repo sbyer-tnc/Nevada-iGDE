@@ -7,3 +7,5 @@ Information about this project can be found at https://www.conservationgateway.o
 Request access to the Nevada iGDE Database at http://heritage.nv.gov/ecology
 
 Summarized data from this project are publicly available via ArcGIS Story Map at https://ndow.maps.arcgis.com/apps/MapSeries/index.html?appid=936d34302dff4e6d9d6d42a3d478024b
+
+Be good <3
